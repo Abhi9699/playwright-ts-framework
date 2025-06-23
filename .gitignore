@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Test and Playwright reports
+playwright-report/
+test-results/
+
+# Build output
+/dist/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# IDE/editor files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Lint/format cache
+.eslintcache
+.prettiercache
